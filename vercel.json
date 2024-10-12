@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://api.liyong.online/:match*"
+      "destination": "https://api.199681.xyz/:match*"
     }
   ]
 }
